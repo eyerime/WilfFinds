@@ -2,7 +2,6 @@
 
 A vanilla PHP/MySQL web system for managing lost and found items, built with MVP principles and vertical slicing.
 
-## QUICK SETUP RENZ MY NIGG
 
 1. **Move Files:** Copy the `lostfound` folder to `C:\xampp\htdocs\`.
 2. **Start XAMPP:** Open the XAMPP Control Panel and start **Apache** and **MySQL**.
